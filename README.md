@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Disastercake
 - 💞️ I’m an indie game developer with a passion for education.
-- 🌱 I’m currently teaching others how to create games uing the Unity 3D game engine.
+- 🌱 I’m currently teaching others how to create games using the Unity 3D game engine.
 - 📫 You can reach me at mike@disastercake.com
 
 <!---
